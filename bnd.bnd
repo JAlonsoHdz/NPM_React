@@ -1,0 +1,6 @@
+Bundle-Name: npm_react_project
+Bundle-SymbolicName: com.st.npm.react
+Bundle-Version: 1.0.0
+Export-Package: com.st.npm.react.constants
+Web-ContextPath: /npm_react_project
+Include-Resource: @com.liferay.frontend.js.loader.modules.extender.api-2.0.1.jar, @com.liferay.petra.string-1.1.0.jar, @com.liferay.petra.lang-1.1.3.jar, @portlet-api-3.0.0.jar, @cdi-api-1.2.jar, @javax.inject-1.jar, @javax.interceptor-api-1.2.jar, @com.liferay.portal.kernel-2.0.0.jar
